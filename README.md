@@ -34,6 +34,7 @@ Developed by: Koduru Sanath Kumar Reddy
 Register number: 212221240024
 ~~~
 ~~~
+
 import numpy as np
 import math
 import scipy.stats
@@ -78,12 +79,12 @@ if cal_chi2_sq<table_chi2:
     print("The given data can be fitted in Poissson distribution at 1% LOS")
 else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
-~~~
 
+~~~
  
 
 # Output : 
-![](Screenshot 2023-05-24 at 3.23.22 PM.png)
+![](1.png)
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
