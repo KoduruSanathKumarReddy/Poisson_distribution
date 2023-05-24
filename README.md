@@ -83,7 +83,7 @@ else:
  
 
 # Output : 
-![](1.png)
+![](Screenshot 2023-05-24 at 3.23.22 PM.png)
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
